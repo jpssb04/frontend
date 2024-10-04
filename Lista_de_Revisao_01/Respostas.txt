@@ -1,0 +1,21 @@
+Lista de Revisão - Linguagem de Script com Lógica Imperativa
+
+1) A
+
+2) C
+
+3) B e D
+
+4) do...while
+
+5) A e D
+
+6) A e C
+
+7) B
+
+8) A
+
+9) No arquivo .js
+
+10) No arquivo .js
