@@ -10,7 +10,7 @@ Lista de Revisão - Linguagem de Script com Lógica Imperativa
 
 5) A e D
 
-6) A e C
+6) C
 
 7) B
 
